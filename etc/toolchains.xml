@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF8"?>
+<toolchains>
+  <!-- JDK toolchains -->
+  <toolchain>
+    <type>jdk</type>
+    <provides>
+      <version>1.6</version>
+    </provides>
+    <configuration>
+      <jdkHome>E:/dev/Java/jdk1.6.0_31_64</jdkHome>
+    </configuration>
+  </toolchain>
+</toolchains>
